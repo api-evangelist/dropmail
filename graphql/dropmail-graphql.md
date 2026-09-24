@@ -1,1 +1,0 @@
-# DropMail GraphQL API

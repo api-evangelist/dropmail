@@ -45,8 +45,6 @@ apis:
   properties:
   - type: Documentation
     url: https://dropmail.me/api/#live-demo
-  - url: graphql/dropmail-graphql.md
-    type: GraphQL
 common:
 - type: DomainSecurity
   url: security/dropmail-domain-security.yml
