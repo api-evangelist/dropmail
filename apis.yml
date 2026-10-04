@@ -39,7 +39,6 @@ apis:
 - name: DropMail
   description: "GraphQL API for creating and managing ephemeral e-mail inboxes"
   humanURL: https://dropmail.me/api/#live-demo
-  baseURL: https://dropmail.me/api/#live-demo
   tags:
   - Email
   properties:
